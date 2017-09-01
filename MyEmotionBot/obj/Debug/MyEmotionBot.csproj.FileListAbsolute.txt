@@ -1,0 +1,187 @@
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csproj.App.config
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csprojResolveAssemblyReference.cache
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll.config
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Bot Application.pdb
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AdaptiveCards.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.Controls.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.Imaging.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.Math.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.Video.DirectShow.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\AForge.Video.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Autofac.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Chronic.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Global.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\HtmlAgilityPack.NetCore.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.AdaptiveCards.Xaml.Wpf.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.Extensions.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.MarkedNet.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Autofac.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.xml
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.dll
+c:\users\nikhil koduri\documents\visual studio 2017\Projects\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.pdb
+E:\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll.config
+E:\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Bot Application.pdb
+E:\MyEmotionBot\MyEmotionBot\bin\AdaptiveCards.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Autofac.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Chronic.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Global.dll
+E:\MyEmotionBot\MyEmotionBot\bin\HtmlAgilityPack.NetCore.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.AdaptiveCards.Xaml.Wpf.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.Extensions.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.MarkedNet.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.dll
+E:\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.dll
+E:\MyEmotionBot\MyEmotionBot\bin\Autofac.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.xml
+E:\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.xml
+E:\MyEmotionBot\MyEmotionBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csproj.App.config
+E:\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csprojResolveAssemblyReference.cache
+E:\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.dll
+E:\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.pdb
+E:\MyEmotionBot\MyEmotionBot\bin\ClassLibrary1.dll
+E:\MyEmotionBot\MyEmotionBot\bin\ClassLibrary1.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll.config
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Bot Application.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Bot Application.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AdaptiveCards.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Autofac.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Chronic.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Global.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\HtmlAgilityPack.NetCore.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.AdaptiveCards.Xaml.Wpf.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Http.Extensions.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.MarkedNet.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Autofac.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\ClassLibrary1.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Builder.Extensions.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\Newtonsoft.Json.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Extensions.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Net.Http.Primitives.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csproj.App.config
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\obj\Debug\Bot Application.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\ClassLibrary1.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.S3.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.Core.dll
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.S3.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.S3.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.Core.pdb
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\bin\AWSSDK.Core.xml
+C:\Users\Godson\Videos\MyEmotionBot\MyEmotionBot\obj\Debug\MyEmotionBot.csprojResolveAssemblyReference.cache
